@@ -7,4 +7,4 @@ async def auth():
     return {
         "message": "Você acessou a rota de autenticação.",
         "authenticated": False
-        }
+    }

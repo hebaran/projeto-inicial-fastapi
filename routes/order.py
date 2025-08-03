@@ -4,4 +4,6 @@ order_router = APIRouter(prefix="/orders", tags=["orders"])
 
 @order_router.get("/")
 async def order():
-    return {"message": "Você acessou a rota de pedidos."}
+    return {
+        "message": "Você acessou a rota de pedidos."
+    }
