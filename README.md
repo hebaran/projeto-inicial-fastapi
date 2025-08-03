@@ -1,3 +1,3 @@
-# Projeto FastAPI (Aprendizado)
+# Projeto FastAPI & SQL/SQLAlchemy (Aprendizado)
 
 ## Baseado no curso: **Curso de FastAPI - Rest API com Python** por **Hashtag Programação**
